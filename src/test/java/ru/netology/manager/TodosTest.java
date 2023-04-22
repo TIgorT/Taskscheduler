@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class TodosTest {
 
-    // Доработка "Новые версии рецепта"
+    // Доработка
 
     @Test
     public void testingTheSearchRevisionTestFirst() {
